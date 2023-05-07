@@ -37,4 +37,9 @@ public class TestContext {
     public void  test03(){
         System.out.println("test03");
     }
+
+    @Test
+    public void test04(){
+
+    }
 }
