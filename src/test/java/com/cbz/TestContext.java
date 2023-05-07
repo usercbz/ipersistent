@@ -32,14 +32,21 @@ public class TestContext {
         System.out.println(tempSql);
         System.out.println(parameterMappingList);
     }
+    @Test
+    public void test02(){
+
+    }
 
     @Test
     public void  test03(){
         System.out.println("test03");
     }
 
+
     @Test
     public void test04(){
 
     }
+
+
 }
